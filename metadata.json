@@ -1,0 +1,6 @@
+{
+  "name": "SkyBuild",
+  "description": "Building With Purpose. Built to Last. Professional residential, commercial, and infrastructure construction services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
